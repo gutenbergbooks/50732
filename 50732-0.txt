@@ -16,11 +16,16 @@ Author: Daniel Defoe
 Translator: Francis William Newman
 
 Release Date: December 20, 2015 [eBook #50732]
-[Most recently updated: April 14, 2023]
+[Most recently updated: June 18, 2023]
 
 Language: Latin
 
 Produced by: Mark C. Orton and the Online Distributed Proofreading Team
+
+Note: an alternate version [70468] with revised spelling and macrons is
+available on Project Gutenberg. This version should be considered the
+original version of the work with version 70468 being a derivative of
+it.
 
 *** START OF THE PROJECT GUTENBERG EBOOK REBILIUS CRUSO ***
 
@@ -991,18 +996,19 @@ quas lectoris oculis nunc subjicere libet.
 
   1. In insulâ solitariâ sum projectus.  1. At non es demersus, sicut
                                             ceteri.
-  2. Ego unus e sodalibus enecor         2. At tibi uni restat spes aliqua
-     aegrimoniâ.                            effugii.
+  2. Ego unus e sodalibus enecor         2. At tibi uni restat spes
+     aegrimoniâ.                            aliqua effugii.
   3. Exsulo e societate hominum.         3. At non servĭs hominibus
                                             scelestis.
   4. Vi bestiarum sum planē obnoxius.    4. At non in belluosam Africam
                                             projectus.
   5. Laboriosissimē victum quotidianum   5. At magnam tu habes ex navĕ
      quaero.                                opem.
-  6. Servio hic servitutem perpetuam.    6. At alios tu in servitutem non
-                                            redigis.
-  7. Nĭsĭ prius solitariĕ moriar, ad     7. At non tua magis quàm parentum
-     solitariam senectutem reservor.        senectus erit solitaria.
+  6. Servio hic servitutem perpetuam.    6. At alios tu in servitutem
+                                            non redigis.
+  7. Nĭsĭ prius solitariĕ moriar, ad     7. At non tua magis quàm
+     solitariam senectutem reservor.        parentum senectus erit
+                                            solitaria.
 
 50. Profectò ultima illa nimis me pupugēre. Quae pro levamentis
 scripsi, vulnus animi recrudescere fecerunt. “Peccavi,” inquam:
@@ -5165,7 +5171,7 @@ exists because of the efforts of hundreds of volunteers and donations
 from people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™'s
+assistance they need are critical to reaching Project Gutenberg™’s
 goals and ensuring that the Project Gutenberg™ collection will
 remain freely available for generations to come. In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
@@ -5181,10 +5187,10 @@ Archive Foundation
 The Project Gutenberg Literary Archive Foundation is a non-profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
+Revenue Service. The Foundation’s EIN or federal tax identification
 number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
+U.S. federal laws and your state’s laws.
 
 The Foundation's business office is located at 809 North 1500 West,
 Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
